@@ -1,0 +1,32 @@
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora_Top.Form1.resources
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.csproj.GenerateResource.cache
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.AssemblyInfoInputs.cache
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.AssemblyInfo.cs
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.csproj.CoreCompileInputs.cache
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\bin\Debug\net8.0-windows\Calculadora+Top.exe
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\bin\Debug\net8.0-windows\Calculadora+Top.deps.json
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\bin\Debug\net8.0-windows\Calculadora+Top.runtimeconfig.json
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\bin\Debug\net8.0-windows\Calculadora+Top.dll
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\bin\Debug\net8.0-windows\Calculadora+Top.pdb
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.dll
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\refint\Calculadora+Top.dll
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.pdb
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\Calculadora+Top.genruntimeconfig.cache
+C:\Users\rafael.santos11\OneDrive - SENAC-SC\Documentos\AulasC#\Calculadora+Top\obj\Debug\net8.0-windows\ref\Calculadora+Top.dll
+C:\Users\rafael.santos11\Desktop\Calculadora\bin\Debug\net8.0-windows\Calculadora+Top.exe
+C:\Users\rafael.santos11\Desktop\Calculadora\bin\Debug\net8.0-windows\Calculadora+Top.deps.json
+C:\Users\rafael.santos11\Desktop\Calculadora\bin\Debug\net8.0-windows\Calculadora+Top.runtimeconfig.json
+C:\Users\rafael.santos11\Desktop\Calculadora\bin\Debug\net8.0-windows\Calculadora+Top.dll
+C:\Users\rafael.santos11\Desktop\Calculadora\bin\Debug\net8.0-windows\Calculadora+Top.pdb
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora_Top.Form1.resources
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.csproj.GenerateResource.cache
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.AssemblyInfoInputs.cache
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.AssemblyInfo.cs
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.csproj.CoreCompileInputs.cache
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.dll
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora+Top.dll
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.pdb
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\Calculadora+Top.genruntimeconfig.cache
+C:\Users\rafael.santos11\Desktop\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora+Top.dll
