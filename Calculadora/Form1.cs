@@ -187,5 +187,11 @@ namespace Calculadora_Top
         {
 
         }
+
+        private void btnIMC_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();  // Cria uma instância do outro Form
+            form2.Show();               // Abre o Form2 como janela separada
+        }
     }
 }

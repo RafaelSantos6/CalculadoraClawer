@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Calculadora+Top.csproj": {}
+    "C:\\Users\\rafael.santos11\\Documents\\CalculadoraClawer\\Calculadora\\Calculadora+Top.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Calculadora+Top.csproj": {
+    "C:\\Users\\rafael.santos11\\Documents\\CalculadoraClawer\\Calculadora\\Calculadora+Top.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Calculadora+Top.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.santos11\\Documents\\CalculadoraClawer\\Calculadora\\Calculadora+Top.csproj",
         "projectName": "Calculadora+Top",
-        "projectPath": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Calculadora+Top.csproj",
+        "projectPath": "C:\\Users\\rafael.santos11\\Documents\\CalculadoraClawer\\Calculadora\\Calculadora+Top.csproj",
         "packagesPath": "C:\\Users\\rafael.santos11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\rafael.santos11\\Documents\\CalculadoraClawer\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
