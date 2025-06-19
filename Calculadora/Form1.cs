@@ -16,9 +16,8 @@ namespace Calculadora_Top
         public Form1()
         {
             InitializeComponent();
-
         }
-
+//teste testando
         private void Form1_Load(object sender, EventArgs e)
         {
             sidebarPanel.Visible = false;
@@ -190,7 +189,7 @@ namespace Calculadora_Top
 
         private void btnIMC_Click(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();  // Cria uma instância do outro Form
+            Form2 form2 = new Form2();  // Cria uma instï¿½ncia do outro Form
             form2.Show();               // Abre o Form2 como janela separada
         }
     }
